@@ -1,4 +1,4 @@
-var user = require ('./user');
+const user = require ('./user');
 
 var vasia =  new user.User("Вася");
 var petya = new user.User("Петя");

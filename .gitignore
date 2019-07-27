@@ -5,6 +5,7 @@ README.md
 package-lock.json
 babel.config.js
 .sass-cache/
+.jshintrc
 
 # local env files
 .env.local
